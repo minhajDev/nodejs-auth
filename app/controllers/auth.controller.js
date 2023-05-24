@@ -9,7 +9,7 @@ exports.signin = (req, res) => {
       id: 01,
       username: "minhaj01",
       email: "minhaj@test.com",
-      password: "$2a$08$WMwNlb6PM3dBgdmWHhmdEucLjjglNJ4k3mBKr.jyp5eyiPQvIe53i"
+      password: "$2a$08$WMwNlb6PM3dBgdmWHhmdEucLjjglNJ4k3mBKr.jyp5eyiPQvIe53i" // 123456789
     }
   ];
 

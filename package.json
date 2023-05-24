@@ -1,7 +1,7 @@
 {
-  "name": "node-js-jwt-refresh-token-mongodb",
+  "name": "test-project",
   "version": "1.0.0",
-  "description": "Node.js JWT Refresh Token with MongoDB",
+  "description": "FinSpace Test",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
     "authorization",
     "mongodb"
   ],
-  "author": "bezkoder",
+  "author": "minhaj",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",

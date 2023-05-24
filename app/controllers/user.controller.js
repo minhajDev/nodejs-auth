@@ -4,7 +4,7 @@ exports.allAccess = (req, res) => {
 
 const http = require('http');
 
-exports.userBoard = (req, res) => {
+exports.getUsers = (req, res) => {
   const options = {
     hostname: 'jsonplaceholder.typicode.com',
     path: '/users',
